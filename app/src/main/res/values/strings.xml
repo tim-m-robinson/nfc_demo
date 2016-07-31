@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MoD NFC Demo</string>
+    <string name="action_demo">MoD NFC Demo</string>
+    <string name="action_nfc_pair">Pair NFC Device</string>
+    <string name="ok_button_text">OK</string>
+    <string name="nfc_pair_pin_message">Enter PIN to enable NFC pairing with a new card or device</string>
+    <string name="nfc_error">NFC Error</string>
+    <string name="no_nfc">This device has no NFC function</string>
+    <string name="nfc_disabled">NFC is currently disabled</string>
+    <string name="preference_file_key">org.tmr.mod.nfc.PREFERENCE_FILE_KEY</string>
+    <string-array name="menu_items">
+        <item >Run Demo</item>
+        <item >Pair NFC Device</item>
+    </string-array>
+    <string name="demo_message">MoD NFC Demo</string>
+    <string name="app_title">MoD NFC Demo</string>
+
+</resources>
